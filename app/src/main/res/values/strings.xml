@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StockScreener</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="high">High</string>
+    <string name="low">Low</string>
+    <string name="volume">Volume</string>
+    <string name="ticker">Ticker</string>
+    <string name="date">Date</string>
+    <string name="valueWillFillIn">Value Will Fill Here</string>
+    <string name="getStockData">Get Stock Data</string>
+    <string name="logout">Logout</string>
+    <string name="about">About</string>
+    <string name="definitions">Go To Definitions</string>
+    <string name="defHeader">Definitions of Market Terminology</string>
+    <string name="openDef">The opening price is the price at which a security first trades upon the opening of an exchange on a trading day; for example, the New York Stock Exchange (NYSE) opens at precisely 9:30 a.m. Eastern time. The price of the first trade for any listed stock is its daily opening price. The opening price is an important marker for that day\'s trading activity, particularly for those interested in measuring short-term results such as day traders.</string>
+    <string name="closeDef">The closing price is the raw price or cash value of the last transacted price in a security before the market officially closes for normal trading. It is often the reference point used by investors to compare a stock\'s performance since the previous day—and closing prices are frequently used to construct line graphs depicting historical price changes over time.</string>
+    <string name="highDef">Today\'s high refers to a security\'s intraday high trading price. Today\'s high is the highest price at which a stock traded during the course of the trading day. Today\'s high is typically higher than the closing or opening price. More often than not this is higher than the closing price.</string>
+    <string name="lowDef">Today’s low is a security\'s intraday low trading price. Today\'s low is the lowest price at which a stock trades over the course of a trading day.</string>
+    <string name="volumeDef">Volume is the amount of an asset or security that changes hands over some period of time, often over the course of a day. For instance, stock trading volume would refer to the number of shares of a security traded between its daily open and close. Trading volume, and changes to volume over the course of time, are important inputs for technical traders.</string>
+    <string name="source">Definitions provided by investopedia.com</string>
+
+</resources>
